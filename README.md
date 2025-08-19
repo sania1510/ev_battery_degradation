@@ -11,7 +11,7 @@ We integrate these signals into a **Relative Risk Index (RRI)** to show how scen
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ **Machine Learning Models** trained on EV, traffic, and weather datasets  
 - ✅ **Comparison of Models (Linear Regression, Random Forest, XGBoost)** with performance metrics (MAE, RMSE, R²)  
@@ -98,12 +98,11 @@ We integrate these signals into a **Relative Risk Index (RRI)** to show how scen
    ```bash
    streamlit run app.py
    ```
-
----
+````
 
 ## 📈 Example Outputs
 
-### 🔹 Model Performance
+###🔹 Model Performance
 
 | Model             | MAE   | RMSE  | R²   |
 | ----------------- | ----- | ----- | ---- |
@@ -111,7 +110,7 @@ We integrate these signals into a **Relative Risk Index (RRI)** to show how scen
 | Random Forest     | 0.018 | 0.027 | 0.99 |
 | XGBoost           | 0.019 | 0.027 | 0.99 |
 
-### 🔹 Visualizations
+###🔹 Visualizations
 
 * **RRI Comparison by Scenario**
 * **Distribution of Battery Health Degradation**
@@ -148,7 +147,8 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ## 👨‍💻 Author
 
-Built with ❤️ by **\[Your Name]**
+Built with ❤️ by **Sania**
 📩 Connect on [LinkedIn](https://www.linkedin.com/in/sania-6a9561292) | 🌐 [GitHub](https://github.com/sania1510)
+
 
 
